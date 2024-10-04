@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="viewDetailsBtn" type="id" />
+    <item name="signup" type="id" />
+    <item name="username" type="id" />
+    <item name="password" type="id" />
+    <item name="phone" type="id" />
+    <item name="email" type="id" />
+    <item name="confirmpass" type="id" />
+    <item name="regBtn" type="id" />
+    <item name="detailsTextView" type="id" />
+</resources>
